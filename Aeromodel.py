@@ -17,7 +17,7 @@
 
 ##################################################################
 # Variacion del archivo original modificado para trabajar con archivos y clases
-# Para romperme un poco la cabeza.
+# Para mas placer.
 ##################################################################
 
 # LISTA DE TAREAS!!!!
